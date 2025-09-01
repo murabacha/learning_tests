@@ -22,3 +22,4 @@ else:
 print(name.replace('thuo','kung\'u'))
 print("{}".format(name2).count('o') )
 print(f'{name}'.islower())
+
